@@ -55,7 +55,7 @@ public class SpringBootCrudJpaH2Application {
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/techbulletinprime/spring-boot-crud-jpa-mysql`
+- Clone this repo to your local machine using `https://github.com`
 
 ### Setup
 
